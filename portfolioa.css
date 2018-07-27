@@ -1,0 +1,89 @@
+.logo{
+  margin: 10px;
+}
+
+.my-name{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+}
+
+.my-title{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-right: 90px;
+}
+
+.main-article{
+  border: 5px solid grey;
+  border-radius: 25px;
+  padding: 30px;
+  box-shadow: 10px 10px 5px grey;
+}
+
+img{
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img:hover{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.greeting{
+  margin-top: 30px;
+  text-align: center;
+  font-family: serif;
+  font-size: 75px;
+  color: red;
+}
+
+.self-introduction{
+  font-family: serif;
+  font-size: 40px;
+  color: blue;
+  margin: 50px;
+}
+
+.my-goal{
+  font-family: serif;
+  font-size: 25px;
+  color: green;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.patient-category{
+  list-style-type: none;
+  margin-left: 100px;
+  font-family: serif;
+  font-size: 25px;
+}
+
+.work{
+  margin-top: 50px;
+  margin-left: 50px;
+  font-family: gadget;
+  font-weight: 700;
+}
+
+.work-wrapper{
+  text-align: center;
+}
+
+.work-display{
+  display: block;
+  font-size: 20px;
+}
+
+.footer-center{
+  font-family: cursive;
+  font-size: 13px;
+  width: 200px;
+  margin: 250px auto;
+}
